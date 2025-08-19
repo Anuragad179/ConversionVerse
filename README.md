@@ -32,6 +32,6 @@ If you're interested in collaboration, feel free to [connect on LinkedIn](https:
 
 ## 📬 Contact
 
-- 📧 Email: you@example.com  
+- 📧 Email: anuragad179@gmail.com  
 - 🌐 Website: [ConversionVerse.com](https://ConversionVerse.com)  
-- 💼 LinkedIn: [[Profile](https://www.linkedin.com/in/anurag-dubey-802604283/)]
+- 💼 LinkedIn: [Profile](https://www.linkedin.com/in/anurag-dubey-802604283/)
