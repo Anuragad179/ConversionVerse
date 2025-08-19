@@ -13,8 +13,8 @@
 
 ## ⚙️ Built With
 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: Python (Flask or Django)
+- **Frontend**: HTML5, CSS3 (Tailwind CSS), JavaScript
+- **Backend**: Python (Flask)
 - **Hosting**: [Namecheap](https://www.namecheap.com/)
 - **Domain**: [ConversionVerse.com](https://ConversionVerse.com)
 
